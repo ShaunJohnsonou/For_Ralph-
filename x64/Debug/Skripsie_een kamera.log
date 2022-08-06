@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\Shaun Johnson\source\repos\Skripsie_een kamera\Skripsie_een kamera\Main.cpp(116,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Shaun Johnson\source\repos\Skripsie_een kamera\Skripsie_een kamera\Main.cpp(117,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Skripsie_een kamera.vcxproj -> C:\Users\Shaun Johnson\source\repos\Skripsie_een kamera\x64\Debug\Skripsie_een kamera.exe
